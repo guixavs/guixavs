@@ -1,6 +1,10 @@
 ## Olá! 👋
 
 Meu nome é Guilherme Xavier Souza, sou estudante de Psicologia na PUC-SP 💭
+
+No momento, trabalho em um projeto que automatize a criação de grafos de Genealogia Acadêmica.
+
+Estudo Python como passatempo e estou aberto para sugestões para melhoras no projeto!!
 <!--
 **guixavs/guixavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
