@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá! 👋
 
+Meu nome é Guilherme Xavier Souza, sou estudante de Psicologia na PUC-SP 💭
 <!--
 **guixavs/guixavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
